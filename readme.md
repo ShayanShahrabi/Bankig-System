@@ -1,4 +1,4 @@
-> This repo contains my first ever coding project! My 8th grade python programming course in highschool (March 2018 - May 2018)
+> This repo contains my first ever coding project! My 8th grade final project for *Programming with Python* class in highschool (March 2018 - May 2018)
 
 ## Intro
 The program, is an implementation of a banking system which runs through terminal. 
